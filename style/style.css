@@ -1,0 +1,13 @@
+
+body {
+	background: #2a2050;
+	font-family: Helvetica, sans-serif;
+	line-height: 1.5em;
+	padding-top:10px;
+	background-attachment: fixed;
+}
+.game {
+	border-bottom: 8px solid black;
+	width: 400px;
+	margin: 0 auto;
+}
